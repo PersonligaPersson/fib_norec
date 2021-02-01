@@ -3,6 +3,7 @@ A solution to the fibbonacci problem without using recursion.
 
 ## Usage
 n := positive integer
+
 fib n
 
 ## Analysis
